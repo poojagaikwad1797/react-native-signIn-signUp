@@ -5,5 +5,5 @@
 > cd react-native-signIn-signUp
 > npm install
 > react-native start
-> react-native run-android || react-native run-android
+> react-native run-android || react-native run-ios
 ```
